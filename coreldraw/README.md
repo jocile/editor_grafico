@@ -1,3 +1,3 @@
 # Meus arquivos do curso de CoreDraw
 
-![Cardapio](Cardapio de lanches.jpg)
+![Cardapio](Cardapio_de_lanches.jpg)
